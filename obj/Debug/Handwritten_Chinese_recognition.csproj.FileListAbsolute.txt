@@ -1,0 +1,10 @@
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\bin\Debug\Job4.exe.config
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\bin\Debug\Job4.exe
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\bin\Debug\Job4.pdb
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\obj\Debug\Handwritten_Chinese_recognition.csprojAssemblyReference.cache
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\obj\Debug\Job4.Form1.resources
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\obj\Debug\Job4.Properties.Resources.resources
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\obj\Debug\Handwritten_Chinese_recognition.csproj.GenerateResource.cache
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\obj\Debug\Handwritten_Chinese_recognition.csproj.CoreCompileInputs.cache
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\obj\Debug\Job4.exe
+Z:\codes\Cs\Job4\Handwritten_Chinese_recognition\obj\Debug\Job4.pdb

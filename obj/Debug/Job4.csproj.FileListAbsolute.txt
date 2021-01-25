@@ -1,0 +1,10 @@
+D:\Folder\C#\Job4\Job4\bin\Debug\Job4.exe.config
+D:\Folder\C#\Job4\Job4\bin\Debug\Job4.exe
+D:\Folder\C#\Job4\Job4\bin\Debug\Job4.pdb
+D:\Folder\C#\Job4\Job4\obj\Debug\Job4.csprojAssemblyReference.cache
+D:\Folder\C#\Job4\Job4\obj\Debug\Job4.Form1.resources
+D:\Folder\C#\Job4\Job4\obj\Debug\Job4.Properties.Resources.resources
+D:\Folder\C#\Job4\Job4\obj\Debug\Job4.csproj.GenerateResource.cache
+D:\Folder\C#\Job4\Job4\obj\Debug\Job4.csproj.CoreCompileInputs.cache
+D:\Folder\C#\Job4\Job4\obj\Debug\Job4.exe
+D:\Folder\C#\Job4\Job4\obj\Debug\Job4.pdb
